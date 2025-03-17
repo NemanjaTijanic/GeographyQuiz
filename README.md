@@ -13,7 +13,7 @@ Upon launching the program, the user enters their username and selects one of fo
 
 Visual Studio version 2019 or higher is required (64-bit).
 
-- Download GravityGame folder and SLN file.
+- Download GeographyQuiz folder and SLN file.
 - Open the project using Visual Studio.
 - Build and run the app.
 
